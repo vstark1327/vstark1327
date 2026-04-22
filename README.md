@@ -25,7 +25,9 @@
 
 ## 📚 What I'm Learning Now
 - Advanced backend design patterns  
-- AWS for DevOps workflows  
+- AWS for DevOps workflows
+- Kubernetes
+- GitLab CI/CD
 - Efficient full-stack architectures  
 - System design fundamentals 
 
