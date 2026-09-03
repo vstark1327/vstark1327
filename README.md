@@ -35,5 +35,5 @@
 - LinkedIn: https://www.linkedin.com/in/vinay-shah9797/
 - Email: shahvinay2707@gmail.com
 
-Thanks for visiting my profile!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vinaystark1327" alt="vinaystark1327" /> </p>
 
