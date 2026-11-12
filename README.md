@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 - Master’s graduate in **Software Systems Engineering**
-- Aspiring **Software Developer**
+- Full-time **Software Developer** at the institute for Automation of Complex Power Systems at RWTH Aachen University.
 - Building practical applications in **Java, Spring Boot, Node.js, PostgreSQL, MongoDB, Angular, React**, and **Python**
 - Interested in distributed systems, backend engineering, and applied ML
 
